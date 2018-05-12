@@ -27,6 +27,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Mack_Reynolds
 description: Freedom is a very dangerous thing indeed. It is so catching-like a plague-even
   the doctors get it.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30338#Freedom
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-10-26'
 gutenberg_type: Text
